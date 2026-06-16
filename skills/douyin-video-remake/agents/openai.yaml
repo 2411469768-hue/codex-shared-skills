@@ -1,0 +1,4 @@
+interface:
+  display_name: "Douyin Video Remake"
+  short_description: "反推抖音参考视频并生成 Seedance 2.0 复刻提示词。"
+  default_prompt: "帮我反推这条视频，款号 8000551"

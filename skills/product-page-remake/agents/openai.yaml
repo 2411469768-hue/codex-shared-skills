@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Page Remake"
+  short_description: "Competitor product page teardown, rewrite, and CRO planning"
+  default_prompt: "Use $product-page-remake to analyze a competitor product detail page and create an original conversion-focused version for my product."

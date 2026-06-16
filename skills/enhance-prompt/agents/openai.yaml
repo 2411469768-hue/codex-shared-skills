@@ -1,0 +1,4 @@
+interface:
+  display_name: "enhance-prompt 提示词优化"
+  short_description: "把模糊想法改成更完整、更可执行的生成提示词"
+  default_prompt: "使用 $enhance-prompt 优化这段提示词，让它更具体、更清晰、更容易生成好结果。"

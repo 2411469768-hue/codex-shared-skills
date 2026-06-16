@@ -1,0 +1,4 @@
+interface:
+  display_name: "humanizer 文字人味化"
+  short_description: "去掉 AI 味，让文字更自然、更像真人写的"
+  default_prompt: "使用 $humanizer 把这段文字改得更自然、更有人味，不要像 AI 写的。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "marketing-ideas 营销点子"
+  short_description: "生成推广思路、素材方向和增长创意"
+  default_prompt: "使用 $marketing-ideas 帮我为这个产品想一批可测试的营销创意和素材方向。"

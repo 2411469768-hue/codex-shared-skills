@@ -1,0 +1,4 @@
+interface:
+  display_name: "seedance-prompt Seedance 女装千川提示词"
+  short_description: "生成女装千川图生视频提示词和短视频文案"
+  default_prompt: "使用 $seedance-prompt 根据我的女装商品图生成 Seedance 图生视频提示词，并可选加入卖点、风格、时长和画幅。"

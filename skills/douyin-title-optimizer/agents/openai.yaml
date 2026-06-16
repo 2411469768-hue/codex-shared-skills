@@ -1,0 +1,7 @@
+interface:
+  display_name: "抖音标题优化"
+  short_description: "优化抖音商品标题，兼顾搜索点击与真实承接。"
+  default_prompt: "Use $douyin-title-optimizer to optimize this Douyin product title or product link."
+
+policy:
+  allow_implicit_invocation: true

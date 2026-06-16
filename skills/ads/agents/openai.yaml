@@ -1,0 +1,4 @@
+interface:
+  display_name: "ads 投放策略"
+  short_description: "分析付费广告投放、人群、预算和优化方向"
+  default_prompt: "使用 $ads 帮我分析这款产品的投放策略，包括目标人群、素材方向和优化建议。"

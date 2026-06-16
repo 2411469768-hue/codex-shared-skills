@@ -1,0 +1,4 @@
+interface:
+  display_name: "copywriting 营销文案"
+  short_description: "撰写和优化商品卖点、页面文案、口播和标题"
+  default_prompt: "使用 $copywriting 帮我把这个产品卖点写成自然、有转化力的文案。"
